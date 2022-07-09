@@ -1,0 +1,16 @@
+{
+  "name": "solidity-by-example",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": {
+    "name": "Raine Revere",
+    "email": "raineorshine@gmail.com",
+    "url": "https://github.com/raineorshine"
+  },
+  "devDependencies": {
+    "bluebird": "^3.4.1",
+    "glob": "^7.0.5"
+  }
+}
